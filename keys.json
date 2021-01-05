@@ -1,0 +1,78 @@
+  {
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "!меню"
+      },
+      "color": "positive"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "!ue4"
+      },
+      "color": "negative"
+      }],
+      [{
+      "action": {
+        "type": "text",
+        "label": "!ue5"
+      },
+      "color": "positive"
+      }],
+      [{
+      "action": {
+        "type": "text",
+        "label": "!unity"
+      },
+      "color": "negative"
+      }],
+      [{
+      "action": {
+        "type": "text",
+        "label": "!ue5t"
+      },
+      "color": "positive"
+      }],
+      [{
+      "action": {
+        "type": "text",
+        "label": "!Топ 10 ассетов UE4"
+      },
+      "color": "negative"
+      }],
+      [{
+      "action": {
+        "type": "text",
+        "label": "!Топ 10 ассетов Unity"
+      },
+      "color": "positive"
+      }],
+      [{
+      "action": {
+        "type": "text",
+        "label": "!Обработка сообщений"
+      },
+      "color": "negative"
+      }],
+      [{
+      "action": {
+        "type": "text",
+        "label": "!Связь с администрацией"
+      },
+      "color": "positive"
+      }],
+      [
+        {
+          "action": {
+            "type": "text",
+            "label": "!Где я живу?"
+          },
+          "color": "negative"
+        }]
+    ]
+
+}
+
