@@ -3,74 +3,74 @@
   "buttons": [
     [{
       "action": {
-        "type": "text",
-        "label": "!меню"
+        "type": "text", #тип сообщения
+        "label": "текст" #значок который высвечивается вместо клавиатуры
       },
-      "color": "positive"
+      "color": "positive" #выбор цвета значка 
     }],
     [{
       "action": {
-        "type": "text",
-        "label": "!ue4"
+        "type": "text", #тип сообщения 
+        "label": "текст" #значок который высвечивается вместо клавиатуры
       },
-      "color": "negative"
+      "color": "negative" #выбор цвета значка
       }],
       [{
       "action": {
-        "type": "text",
-        "label": "!ue5"
+        "type": "text", #тип сообщения 
+        "label": "текст" #значок который высвечивается вместо клавиатуры
       },
-      "color": "positive"
+      "color": "positive" #выбор цвета значка
       }],
       [{
       "action": {
-        "type": "text",
-        "label": "!unity"
+        "type": "text", #тип сообщения
+        "label": "текст" #значок который высвечивается вместо клавиатуры
       },
-      "color": "negative"
+      "color": "negative" #выбор цвета значка
+      }], 
+      [{
+      "action": {
+        "type": "text", #тип сообщения
+        "label": "текст" #значок который высвечивается вместо клавиатуры
+      },
+      "color": "positive" #выбор цвета значка
       }],
       [{
       "action": {
-        "type": "text",
-        "label": "!ue5t"
+        "type": "text", #тип сообщения
+        "label": "текст" #значок который высвечивается вместо клавиатуры
       },
-      "color": "positive"
+      "color": "negative" #выбор цвета значка
       }],
       [{
       "action": {
-        "type": "text",
-        "label": "!Топ 10 ассетов UE4"
+        "type": "text", #тип сообщения
+        "label": "текст" #значок который высвечивается вместо клавиатуры
       },
-      "color": "negative"
+      "color": "positive" #выбор цвета значка
       }],
       [{
       "action": {
-        "type": "text",
-        "label": "!Топ 10 ассетов Unity"
+        "type": "text", #тип сообщения
+        "label": "текст" #значок который высвечивается вместо клавиатуры
       },
-      "color": "positive"
+      "color": "negative" #выбор цвета значка
       }],
       [{
       "action": {
-        "type": "text",
-        "label": "!Обработка сообщений"
+        "type": "text", #тип сообщения
+        "label": "текст" #значок который высвечивается вместо клавиатуры
       },
-      "color": "negative"
-      }],
-      [{
-      "action": {
-        "type": "text",
-        "label": "!Связь с администрацией"
-      },
-      "color": "positive"
+      "color": "positive" #выбор цвета значка
       }],
       [
         {
           "action": {
-            "type": "text",
-            "label": "!Где я живу?"
+            "type": "text", #тип сообщения
+            "label": "текст" #значок который высвечивается вместо клавиатуры
           },
-          "color": "negative"
+          "color": "negative" #выбор цвета значка
         }]
     ]
 
