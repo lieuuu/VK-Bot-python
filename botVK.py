@@ -106,7 +106,7 @@ for event in longpoll.listen():
                 user_id=event.user_id,
                 random_id=time.time(),
                 message="текст") #сообщение, которое вы поулчите в процессе выполнения значения(текст)
-        elif (event.text.lower() == "!unity"): #значение, которое ввы хотите задать
+        elif (event.text.lower() == "!текст"): #значение, которое ввы хотите задать
             name = users.get(user_ids=event.user_id, fields='city', name_case="dat")[0]['first_name']
             vk.messages.send(
                 user_id=event.user_id,
