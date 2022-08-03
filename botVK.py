@@ -112,6 +112,7 @@ for event in longpoll.listen():
                 user_id=event.user_id,
                 random_id=time.time(),
                 message="") #сообщение, которе вы получите в процессе выполнения значения(текст)
+        elif (event.text.lower()) 
         else:
             vk.messages.send(
                 user_id=event.user_id,
